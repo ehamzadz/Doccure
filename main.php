@@ -22,16 +22,27 @@
 			}
 			
 			$stars ='';
-			$n = $sum / $count;
-			$n = round($n);
+			if ($sum != 0){				
+				$n = $sum / $count;
+				$n = round($n);
 
-			for ($i = 1; $i <= $n; $i++) {
-				$stars .= '<i class="fas fa-star filled"></i>';
+				for ($i = 1; $i <= $n; $i++) {
+					$stars .= '<i class="fas fa-star filled"></i>';
+				}
+
+				$n = 5- $n;
+				for ($i = 1; $i <= $n; $i++) {
+					$stars .= '<i class="fas fa-star"></i>';
+				}
+			} else {
+				$stars = '<i class="fas fa-star"></i>
+							<i class="fas fa-star"></i>
+							<i class="fas fa-star"></i>
+							<i class="fas fa-star"></i>
+							<i class="fas fa-star"></i>';
 			}
-			$n = 5- $n;
-			for ($i = 1; $i <= $n; $i++) {
-				$stars .= '<i class="fas fa-star"></i>';
-			}
+
+			
 
 			$DoctorWidget = $DoctorWidget.'<div class="profile-widget">
 								<div class="doc-img">
