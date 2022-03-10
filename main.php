@@ -111,11 +111,11 @@
 							<form action="https://doccure-html.dreamguystech.com/template/search.html">
 								<div class="form-group search-location">
 									<input type="text" class="form-control" placeholder="Search Location">
-									<span class="form-text">Based on your Location</span>
+									<span class="form-text">Basé sur votre emplacement</span>
 								</div>
 								<div class="form-group search-info">
 									<input type="text" class="form-control" placeholder="Search Doctors, Clinics, Hospitals, Diseases Etc">
-									<span class="form-text">Ex : Dental or Sugar Check up etc</span>
+									<span class="form-text">Ex : examen dentaire ou de sucre, etc.</span>
 								</div>
 								<button type="submit" class="btn btn-primary search-btn mt-0"><i class="fas fa-search"></i> <span>Search</span></button>
 							</form>
@@ -132,7 +132,7 @@
 					<div class="row">
 						<div class="col-md-9 m-auto">
 							<div class="section-header text-center">
-								<h2>What are you looking for?</h2>
+								<h2>Qu'est-ce que tu cherches?</h2>
 							</div>
 							<div class="row">
 								<div class="col-lg-4 mb-3">
@@ -140,8 +140,8 @@
 										<img src="assets/img/doctors/doctor-07.jpg" alt="" class="img-fluid">
 										<div class="doctor-book-card-content tile-card-content-1">
 											<div>
-												<h3 class="card-title mb-0">Visit a Doctor</h3>
-												<a href="search.html" class="btn book-btn1 px-3 py-2 mt-3" tabindex="0">Book Now</a>
+												<h3 class="card-title mb-0">Consulter un médecin</h3>
+												<a href="search.html" class="btn book-btn1 px-3 py-2 mt-3" tabindex="0">Reserve maintenant</a>
 											</div>
 										</div>
 									</div>
@@ -151,8 +151,8 @@
 										<img src="assets/img/img-pharmacy1.jpg" alt="" class="img-fluid">
 										<div class="doctor-book-card-content tile-card-content-1">
 											<div>
-												<h3 class="card-title mb-0">Find a Pharmacy</h3>
-												<a href="pharmacy-search.html" class="btn book-btn1 px-3 py-2 mt-3" tabindex="0">Find Now</a>
+												<h3 class="card-title mb-0">Trouver une pharmacie</h3>
+												<a href="pharmacy-search.html" class="btn book-btn1 px-3 py-2 mt-3" tabindex="0">Trouve maintenant</a>
 											</div>
 										</div>
 									</div>
@@ -162,8 +162,8 @@
 										<img src="assets/img/lab-image.jpg" alt="" class="img-fluid">
 										<div class="doctor-book-card-content tile-card-content-1">
 											<div>
-											<h3 class="card-title mb-0">Find a Lab</h3>
-												<a href="javascript:void(0);" class="btn book-btn1 px-3 py-2 mt-3" tabindex="0">Coming Soon</a>
+											<h3 class="card-title mb-0">Trouver un laboratoire</h3>
+												<a href="javascript:void(0);" class="btn book-btn1 px-3 py-2 mt-3" tabindex="0">À venir</a>
 											</div>
 										</div>
 									</div>
@@ -178,8 +178,9 @@
 			<section class="section section-specialities">
 				<div class="container-fluid">
 					<div class="section-header text-center">
-						<h2>Clinic and Specialities</h2>
-						<p class="sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<h2>Clinique et spécialités</h2>
+						<p class="sub-title">Pour permettre une prise en charge à la hauteur de vos attentes en matière de confort et de technicités des soins prodigués, la clinique vous offre des soins spécialisés de qualité au sein de notre établissement pluridisciplinaire convivial et chaleureux.
+Ci dessous nos différentes spécialités médicales et chirurgicales :</p>
 					</div>
 					<div class="row justify-content-center">
 						<div class="col-md-9">
@@ -192,7 +193,7 @@
 										<img src="assets/img/specialities/specialities-01.png" class="img-fluid" alt="Speciality">
 										<span><i class="fa fa-circle" aria-hidden="true"></i></span>
 									</div>
-									<p>Urology</p>
+									<p>Urologie</p>
 								</div>	
 								<!-- /Slider Item -->
 								
@@ -202,7 +203,7 @@
 										<img src="assets/img/specialities/specialities-02.png" class="img-fluid" alt="Speciality">
 										<span><i class="fa fa-circle" aria-hidden="true"></i></span>
 									</div>
-									<p>Neurology</p>	
+									<p>Neurologie</p>	
 								</div>							
 								<!-- /Slider Item -->
 								
@@ -212,7 +213,7 @@
 										<img src="assets/img/specialities/specialities-03.png" class="img-fluid" alt="Speciality">
 										<span><i class="fa fa-circle" aria-hidden="true"></i></span>
 									</div>	
-									<p>Orthopedic</p>	
+									<p>Orthopédique</p>	
 								</div>							
 								<!-- /Slider Item -->
 								
@@ -222,7 +223,7 @@
 										<img src="assets/img/specialities/specialities-04.png" class="img-fluid" alt="Speciality">
 										<span><i class="fa fa-circle" aria-hidden="true"></i></span>
 									</div>	
-									<p>Cardiologist</p>	
+									<p>Cardiologue</p>	
 								</div>							
 								<!-- /Slider Item -->
 								
@@ -232,7 +233,7 @@
 										<img src="assets/img/specialities/specialities-05.png" class="img-fluid" alt="Speciality">
 										<span><i class="fa fa-circle" aria-hidden="true"></i></span>
 									</div>	
-									<p>Dentist</p>
+									<p>Dentiste</p>
 								</div>							
 								<!-- /Slider Item -->
 								
@@ -251,7 +252,7 @@
 				   <div class="row">
 						<div class="col-lg-4">
 							<div class="section-header ">
-								<h2>Book Our Doctor</h2>
+								<h2>Réservez notre médecin</h2>
 								<p>Lorem Ipsum is simply dummy text </p>
 							</div>
 							<div class="about-content">
@@ -283,49 +284,49 @@
 						</div>
 						<div class="col-md-7">
 							<div class="section-header">	
-								<h2 class="mt-2">Availabe Features in Our Clinic</h2>
+								<h2 class="mt-2">Fonctionnalités disponibles dans notre clinique</h2>
 								<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
 							</div>	
 							<div class="features-slider slider">
 								<!-- Slider Item -->
 								<div class="feature-item text-center">
 									<img src="assets/img/features/feature-01.jpg" class="img-fluid" alt="Feature">
-									<p>Patient Ward</p>
+									<p>Service des patients</p>
 								</div>
 								<!-- /Slider Item -->
 								
 								<!-- Slider Item -->
 								<div class="feature-item text-center">
 									<img src="assets/img/features/feature-02.jpg" class="img-fluid" alt="Feature">
-									<p>Test Room</p>
+									<p>Salle d'essai</p>
 								</div>
 								<!-- /Slider Item -->
 								
 								<!-- Slider Item -->
 								<div class="feature-item text-center">
 									<img src="assets/img/features/feature-03.jpg" class="img-fluid" alt="Feature">
-									<p>ICU</p>
+									<p>Soins intensifs</p>
 								</div>
 								<!-- /Slider Item -->
 								
 								<!-- Slider Item -->
 								<div class="feature-item text-center">
 									<img src="assets/img/features/feature-04.jpg" class="img-fluid" alt="Feature">
-									<p>Laboratory</p>
+									<p>Laboratoire</p>
 								</div>
 								<!-- /Slider Item -->
 								
 								<!-- Slider Item -->
 								<div class="feature-item text-center">
 									<img src="assets/img/features/feature-05.jpg" class="img-fluid" alt="Feature">
-									<p>Operation</p>
+									<p>Opération</p>
 								</div>
 								<!-- /Slider Item -->
 								
 								<!-- Slider Item -->
 								<div class="feature-item text-center">
 									<img src="assets/img/features/feature-06.jpg" class="img-fluid" alt="Feature">
-									<p>Medical</p>
+									<p>Médicale</p>
 								</div>
 								<!-- /Slider Item -->
 							</div>
@@ -341,7 +342,7 @@
 				
 					<!-- Section Header -->
 					<div class="section-header text-center">
-						<h2>Blogs and News</h2>
+						<h2>Blogues et actualités</h2>
 						<p class="sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 					</div>
 					<!-- /Section Header -->
