@@ -101,23 +101,23 @@
 				<div class="container-fluid">
 					<div class="banner-wrapper">
 						<div class="banner-header text-center">
-							<h5>SOLUTION COMPLÈTE DE SOINS DE SANTÉ</h5>
-							<h1>Je Recherche Ma Maladie</h1>
-							<p>La pandémie de Covid-19 a changé le système de santé au monde pour la prévention des épidémies la télémédecine.</p>
+							<h3>حل كامل للرعاية الصحية</h3>
+							<h1>أنا أبحث عن مرضي</h1>
+							<p>.غيّرت جائحة كورونا (كوفيد-19) نظام الرعاية الصحية في العالم من أجل التطبيب عن بعد للوقاية من الأوبئة</p>
 						</div>
                          
 						<!-- Search -->
 						<div class="search-box">
 							<form action="https://doccure-html.dreamguystech.com/template/search.html">
 								<div class="form-group search-location">
-									<input type="text" class="form-control" placeholder="Search Location">
-									<span class="form-text">Basé sur votre emplacement</span>
+									<input type="text" class="form-control" placeholder="موقع البحث">
+									<span class="form-text">بناء على موقعك</span>
 								</div>
 								<div class="form-group search-info">
-									<input type="text" class="form-control" placeholder="Search Doctors, Clinics, Hospitals, Diseases Etc">
-									<span class="form-text">Ex : examen dentaire ou de sucre, etc.</span>
+									<input type="text" class="form-control" placeholder="ابحث عن الأطباء والعيادات والمستشفيات والأمراض وما إلى ذلك">
+									<span class="form-text">على سبيل المثال: فحص الأسنان أو فحص السكر ، إلخ.</span>
 								</div>
-								<button type="submit" class="btn btn-primary search-btn mt-0"><i class="fas fa-search"></i> <span>Search</span></button>
+								<button type="submit" class="btn btn-primary search-btn mt-0"><i class="fas fa-search"></i> <span>بحث</span></button>
 							</form>
 						</div>
 						<!-- /Search -->
@@ -132,7 +132,7 @@
 					<div class="row">
 						<div class="col-md-9 m-auto">
 							<div class="section-header text-center">
-								<h2>Qu'est-ce que tu cherches?</h2>
+								<h2>ما الذي تبحث عنه؟</h2>
 							</div>
 							<div class="row">
 								<div class="col-lg-4 mb-3">
@@ -140,8 +140,8 @@
 										<img src="../assets/img/doctors/doctor-07.jpg" alt="" class="img-fluid">
 										<div class="doctor-book-card-content tile-card-content-1">
 											<div>
-												<h3 class="card-title mb-0">Consulter un médecin</h3>
-												<a href="search.html" class="btn book-btn1 px-3 py-2 mt-3" tabindex="0">Reserve maintenant</a>
+												<h3 class="card-title mb-0">المعاينة عند الطبيب</h3>
+												<a href="search.html" class="btn book-btn1 px-3 py-2 mt-3" tabindex="0">إحجز موعد الآن</a>
 											</div>
 										</div>
 									</div>
@@ -151,8 +151,8 @@
 										<img src="../assets/img/img-pharmacy1.jpg" alt="" class="img-fluid">
 										<div class="doctor-book-card-content tile-card-content-1">
 											<div>
-												<h3 class="card-title mb-0">Trouver une pharmacie</h3>
-												<a href="pharmacy-search.html" class="btn book-btn1 px-3 py-2 mt-3" tabindex="0">Trouve maintenant</a>
+												<h3 class="card-title mb-0">ابحث عن صيدلية</h3>
+												<a href="pharmacy-search.html" class="btn book-btn1 px-3 py-2 mt-3" tabindex="0">ابحث الآن</a>
 											</div>
 										</div>
 									</div>
@@ -162,7 +162,7 @@
 										<img src="../assets/img/lab-image.jpg" alt="" class="img-fluid">
 										<div class="doctor-book-card-content tile-card-content-1">
 											<div>
-											<h3 class="card-title mb-0">Trouver un laboratoire</h3>
+											<h3 class="card-title mb-0">ابحث عن مختبر</h3>
 												<a href="javascript:void(0);" class="btn book-btn1 px-3 py-2 mt-3" tabindex="0">À venir</a>
 											</div>
 										</div>
@@ -178,9 +178,9 @@
 			<section class="section section-specialities">
 				<div class="container-fluid">
 					<div class="section-header text-center">
-						<h2>Clinique et spécialités</h2>
-						<p class="sub-title">Pour permettre une prise en charge à la hauteur de vos attentes en matière de confort et de technicités des soins prodigués, la clinique vous offre des soins spécialisés de qualité au sein de notre établissement pluridisciplinaire convivial et chaleureux.
-Ci dessous nos différentes spécialités médicales et chirurgicales :</p>
+						<h2>العيادة والتخصصات</h2>
+						<p class="sub-title">للسماح للرعاية بتلبية توقعاتك من حيث الراحة والتقنية للرعاية المقدمة ، تقدم لك العيادة رعاية متخصصة عالية الجودة داخل مؤسستنا متعددة التخصصات الودودة والدافئة.
+فيما يلي تخصصاتنا الطبية والجراحية المختلفة :</p>
 					</div>
 					<div class="row justify-content-center">
 						<div class="col-md-9">
@@ -193,7 +193,7 @@ Ci dessous nos différentes spécialités médicales et chirurgicales :</p>
 										<img src="../assets/img/specialities/specialities-01.png" class="img-fluid" alt="Speciality">
 										<span><i class="fa fa-circle" aria-hidden="true"></i></span>
 									</div>
-									<p>Urologie</p>
+									<p>طب المسالك البولية</p>
 								</div>	
 								<!-- /Slider Item -->
 								
@@ -203,7 +203,7 @@ Ci dessous nos différentes spécialités médicales et chirurgicales :</p>
 										<img src="../assets/img/specialities/specialities-02.png" class="img-fluid" alt="Speciality">
 										<span><i class="fa fa-circle" aria-hidden="true"></i></span>
 									</div>
-									<p>Neurologie</p>	
+									<p>طب الأعصاب</p>	
 								</div>							
 								<!-- /Slider Item -->
 								
@@ -213,7 +213,7 @@ Ci dessous nos différentes spécialités médicales et chirurgicales :</p>
 										<img src="../assets/img/specialities/specialities-03.png" class="img-fluid" alt="Speciality">
 										<span><i class="fa fa-circle" aria-hidden="true"></i></span>
 									</div>	
-									<p>Orthopédique</p>	
+									<p>تقويم العظام</p>	
 								</div>							
 								<!-- /Slider Item -->
 								
@@ -223,7 +223,7 @@ Ci dessous nos différentes spécialités médicales et chirurgicales :</p>
 										<img src="../assets/img/specialities/specialities-04.png" class="img-fluid" alt="Speciality">
 										<span><i class="fa fa-circle" aria-hidden="true"></i></span>
 									</div>	
-									<p>Cardiologue</p>	
+									<p>طب القلب</p>	
 								</div>							
 								<!-- /Slider Item -->
 								
@@ -233,7 +233,7 @@ Ci dessous nos différentes spécialités médicales et chirurgicales :</p>
 										<img src="../assets/img/specialities/specialities-05.png" class="img-fluid" alt="Speciality">
 										<span><i class="fa fa-circle" aria-hidden="true"></i></span>
 									</div>	
-									<p>Dentiste</p>
+									<p>طب الأسنان</p>
 								</div>							
 								<!-- /Slider Item -->
 								
@@ -252,8 +252,8 @@ Ci dessous nos différentes spécialités médicales et chirurgicales :</p>
 				   <div class="row">
 						<div class="col-lg-4">
 							<div class="section-header ">
-								<h2>Réservez notre médecin</h2>
-								<p>Lorem Ipsum is simply dummy text </p>
+								<h2>احجز طبيبك</h2>
+								<p>ابحث واحجز موعدك مع افضل الأطباء اونلاين. </p>
 							</div>
 							<div class="about-content">
 								<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum.</p>
@@ -284,49 +284,49 @@ Ci dessous nos différentes spécialités médicales et chirurgicales :</p>
 						</div>
 						<div class="col-md-7">
 							<div class="section-header">	
-								<h2 class="mt-2">Fonctionnalités disponibles dans notre clinique</h2>
+								<h2 class="mt-2">الميزات المتوفرة في عيادتنا</h2>
 								<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
 							</div>	
 							<div class="features-slider slider">
 								<!-- Slider Item -->
 								<div class="feature-item text-center">
 									<img src="../assets/img/features/feature-01.jpg" class="img-fluid" alt="Feature">
-									<p>Service des patients</p>
+									<p>خدمة المرضى</p>
 								</div>
 								<!-- /Slider Item -->
 								
 								<!-- Slider Item -->
 								<div class="feature-item text-center">
 									<img src="../assets/img/features/feature-02.jpg" class="img-fluid" alt="Feature">
-									<p>Salle d'essai</p>
+									<p>غرفة الاختبار</p>
 								</div>
 								<!-- /Slider Item -->
 								
 								<!-- Slider Item -->
 								<div class="feature-item text-center">
 									<img src="../assets/img/features/feature-03.jpg" class="img-fluid" alt="Feature">
-									<p>Soins intensifs</p>
+									<p>العناية المركزة</p>
 								</div>
 								<!-- /Slider Item -->
 								
 								<!-- Slider Item -->
 								<div class="feature-item text-center">
 									<img src="../assets/img/features/feature-04.jpg" class="img-fluid" alt="Feature">
-									<p>Laboratoire</p>
+									<p>المختبر</p>
 								</div>
 								<!-- /Slider Item -->
 								
 								<!-- Slider Item -->
 								<div class="feature-item text-center">
 									<img src="../assets/img/features/feature-05.jpg" class="img-fluid" alt="Feature">
-									<p>Opération</p>
+									<p>العمليات</p>
 								</div>
 								<!-- /Slider Item -->
 								
 								<!-- Slider Item -->
 								<div class="feature-item text-center">
 									<img src="../assets/img/features/feature-06.jpg" class="img-fluid" alt="Feature">
-									<p>Médicale</p>
+									<p>طبي</p>
 								</div>
 								<!-- /Slider Item -->
 							</div>
@@ -342,7 +342,7 @@ Ci dessous nos différentes spécialités médicales et chirurgicales :</p>
 				
 					<!-- Section Header -->
 					<div class="section-header text-center">
-						<h2>Blogues et actualités</h2>
+						<h2>المدونات والأخبار</h2>
 						<p class="sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 					</div>
 					<!-- /Section Header -->
